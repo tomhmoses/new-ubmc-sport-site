@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.sportandfitness.bham.ac.uk	TRUE	/	FALSE	1999999999	PHPSESSID	8156e894993aae18f7840155e0a2d1db
+www.sportandfitness.bham.ac.uk	TRUE	/	FALSE	1999999999	wpSGCacheBypass	0
+

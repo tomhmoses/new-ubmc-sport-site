@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 28 Jun 2019 22:50:19 at https://www.sportandfitness.bham.ac.uk/student-sport/clubs/mountaineering/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.sportandfitness.bham.ac.uk/student-sport/clubs/mountaineering/ -O1 "C:\Users\951687\Documents\Websites\Guild Website Update" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:50:20	Warning: 	Note: due to https://www.sportandfitness.bham.ac.uk remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+22:51:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.sportandfitness.bham.ac.uk/wp-content/plugins/new-royalslider/lib/royalslider/jquery.royalslider.min.js (from https://www.sportandfitness.bham.ac.uk/student-sport/clubs/mountaineering/)
+22:51:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.sportandfitness.bham.ac.uk/wp-content/plugins/instagram-feed/img/small-logo.png (from https://www.sportandfitness.bham.ac.uk/wp-content/plugins/instagram-feed/css/sb-instagram.min.css)
+22:51:06	Warning: 	File not parsed, looks like binary: https://www.sportandfitness.bham.ac.uk/wp-content/plugins/revslider/public/assets/css/openhand.cur
+22:51:06	Warning: 	File not parsed, looks like binary: https://www.sportandfitness.bham.ac.uk/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+22:51:06	Error: 	"Not Found" (404) at link https://www.sportandfitness.bham.ac.uk/wp-content/themes/360 birmingham/royalslider/preloaders/preloader-white.gif (from https://www.sportandfitness.bham.ac.uk/wp-content/themes/360 birmingham/royalslider/performance/performance.css)
+22:51:06	Error: 	"Not Found" (404) at link https://www.sportandfitness.bham.ac.uk/student-sport/clubs/mountaineering/POST (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 48 seconds : 178 links scanned, 173 files written (3927173 bytes overall) [2479246 bytes received at 51650 bytes/sec], 2301123 bytes transferred using HTTP compression in 65 files, ratio 28%, 8.0 requests per connection
+(2 errors, 5 warnings, 0 messages)
